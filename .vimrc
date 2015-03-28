@@ -8,7 +8,7 @@ set nocp
 set t_Co=256
 filetype plugin on
 set background=dark
-colorscheme solarized 
+colorscheme heroku
 set number
 set nowrap
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
