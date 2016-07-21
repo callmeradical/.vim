@@ -1,0 +1,1 @@
+ruby_sinatra.vba: call delete('/Users/lars/.vim/ftdetect/ruby-sinatra.vim')|call delete('/Users/lars/.vim/snippets/ruby-sinatra.snippets')|call delete('/Users/lars/.vim/syntax/ruby-sinatra.vim')

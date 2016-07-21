@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/lars/src/terraformations/vpc_base'
+let g:netrw_dirhist_2='/Users/lars/src/terraformations/aws_asg'
+let g:netrw_dirhist_3='/Users/lars/src/terraformations/vpc_nat'
+let g:netrw_dirhist_4='/Users/lars/code/src/bitbucket.org/2w/o365/webconfig'
+let g:netrw_dirhist_5='/Users/lars/src/terraformations/aws_iam'
+let g:netrw_dirhist_6='/Users/lars/code/src/bitbucket.org/2w/o365_distro_update/office'
